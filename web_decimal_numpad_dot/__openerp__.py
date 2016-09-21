@@ -18,7 +18,7 @@
 
 {
     "name": "Web - Numpad Dot as decimal separator",
-    "version": "1.0",
+    "version": "9.0",
     "depends": [
         "web",
     ],
@@ -31,7 +31,8 @@
         "Oihane Crucelaegui <oihanecrucelaegi@avanzosc.es>",
         "Pedro M. Baeza <pedro.baeza@serviciosbaeza.com>",
         "Ana Juaristi <anajuaristi@avanzosc.es>",
-        "Omar Castiñeira Saavedra <omar@comunitea.com"
+        "Omar Castiñeira Saavedra <omar@comunitea.com>",
+        "Claudio Lagoa Vieitez <clagoa@gmail.com>"
     ],
     "category": "Custom Module",
     "summary": "",

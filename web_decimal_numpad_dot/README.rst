@@ -13,3 +13,4 @@ Contributors
 * Pedro M. Baeza <pedro.baeza@serviciosbaeza.com>
 * Ana Juaristi <anajuaristi@avanzosc.es>
 * Omar Castiñeira Saavedra <omar@comunitea.com>
+* Claudio Lagoa Vieitez <clagoa@gmail.com>

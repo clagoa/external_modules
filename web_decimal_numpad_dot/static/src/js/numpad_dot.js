@@ -1,8 +1,11 @@
-(function() {
+odoo.define('web.web_decimal_numpad_dot', function (require) {
+"use strict";  
 
-var instance = openerp;
+var core = require('web.core');
+var _t = core._t;
+var FieldFloat = require('web.form_widgets').FieldFloat;
 
-instance.web.form.FieldFloat = instance.web.form.FieldFloat.extend({
+FieldFloat.include({
     render_value: function() {
         var self = this;
         this._super();
@@ -11,7 +14,8 @@ instance.web.form.FieldFloat = instance.web.form.FieldFloat.extend({
         }
     },
     floatKeypress: function(e){
-        if((e.keyCode == '46' || e.charCode == '46') && instance.web._t.database.parameters.decimal_point == ','){
+        if((e.keyCode == '46' || e.charCode == '46') && 
+        	_t.database.parameters.decimal_point == ','){
             //Cancel the keypress
             e.preventDefault();
             // Add the comma to the value of the input field
@@ -22,4 +26,5 @@ instance.web.form.FieldFloat = instance.web.form.FieldFloat.extend({
     },
 });
 
-})();
+return FieldFloat
+});
