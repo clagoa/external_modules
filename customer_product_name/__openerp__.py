@@ -31,6 +31,6 @@
     'depends': ['base', 'product', 'sale'],
     'data': ['product_view.xml',
              'security/ir.model.access.csv'],
-    'installable': True,
+    'installable': False,
     'certificate': '',
 }

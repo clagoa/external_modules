@@ -29,5 +29,5 @@
     "depends": ['stock', 'product', 'purchase'],
     "data": ['security/hide_variants_groups.xml',
              'product_view.xml'],
-    "installable": True
+    "installable": False
 }

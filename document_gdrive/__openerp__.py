@@ -39,5 +39,5 @@ Module that allows to attach a Google Drive Document.
     'qweb': [
         'static/src/xml/gdrive.xml',
     ],
-    "installable": True,
+    "installable": False,
 }

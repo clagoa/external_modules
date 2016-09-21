@@ -33,6 +33,6 @@
     'init_xml': [],
     'data': ['account_view.xml'],
     'demo_xml': [],
-    'installable': True,
+    'installable': False,
     'certificate': '',
 }

@@ -30,5 +30,5 @@
     'data': [],
     'description': '''
 Get a new field thar have the due dates in a string''',
-    'installable': True,
+    'installable': False,
 }

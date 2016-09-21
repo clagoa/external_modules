@@ -33,7 +33,7 @@ Tools for translations and localizations:
     "demo_xml": [ ],
     "update_xml": [ ],
     "active": True,
-    "installable": True,
+    "installable": False,
     "certificate" : "",
 }
 # vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:

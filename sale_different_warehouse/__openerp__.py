@@ -29,6 +29,6 @@
     "depends" : ["base", "sale_stock", "procurement"],
     "category" : "Sales Management",
     "data" : ["sale_view.xml"],
-    'installable': True,
+    'installable': False,
     'active': False,
 }

@@ -45,6 +45,6 @@ Module that adds the management to the products under minimal.
              "security/product_stock_unsafety_security.xml"],
     "demo": [],
     "test": [],
-    "installable": True,
+    "installable": False,
     "application": True,
 }

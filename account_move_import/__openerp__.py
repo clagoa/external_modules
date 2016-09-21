@@ -36,5 +36,5 @@
     'demo': [
         'demo/account_move.xml',
     ],
-    'installable': True,
+    'installable': False,
 }

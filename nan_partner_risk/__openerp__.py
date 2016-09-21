@@ -22,5 +22,5 @@ Developed for Trod y Avia, S.L.""",
                  'security/nan_partner_risk_groups.xml',
                  'sale_workflow.xml'],
         "active": False,
-        "installable": True
+        "installable": False
 }

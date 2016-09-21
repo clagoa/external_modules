@@ -16,5 +16,5 @@
         'no_pickings_view.xml',
         'wizard/moves_to_pick_view.xml'
     ],
-    'installable': True,
+    'installable': False,
 }

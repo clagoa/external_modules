@@ -43,6 +43,6 @@ Rappel Management
              'data/ir.cron.xml',
              'wizard/compute_rappel_invoice_view.xml',
              'security/ir.model.access.csv'],
-    'installable': True,
+    'installable': False,
     'application': True,
 }

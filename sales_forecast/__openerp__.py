@@ -37,7 +37,7 @@
                         "wizard/merge_sales_forecast_view.xml",
                         "wizard/scale_sales_forecast_view.xml"
             ],
-        "installable": True,
+        "installable": False,
         'active': False
 
 }

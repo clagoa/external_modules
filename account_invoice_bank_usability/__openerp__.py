@@ -35,5 +35,5 @@
     'description': '''Allow to select customer bank accounts on customer
     invoices.''',
     'auto_install': False,
-    'installable': True,
+    'installable': False,
 }

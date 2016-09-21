@@ -18,5 +18,5 @@
         "Javier Colmenero <javier@comunitea.com>"
     ],
     'auto_install': False,
-    'installable': True,
+    'installable': False,
 }

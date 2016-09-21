@@ -14,5 +14,5 @@
                 'account_banking_mandate'],
     'data': ['views/account_payment.xml',
              'views/account_invoice.xml'],
-    'installable': True,
+    'installable': False,
 }

@@ -30,5 +30,5 @@
     "depends" : ["account"],
     "category" : "Accounting",
     "data" : [],
-    'installable': True,
+    'installable': False,
 }

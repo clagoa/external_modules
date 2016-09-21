@@ -45,6 +45,6 @@
               "security/product_cost_security.xml",
              ],
     'demo_xml': [],
-    'installable': True,
+    'installable': False,
     'active': False,
 }

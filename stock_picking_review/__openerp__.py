@@ -34,5 +34,5 @@
         'stock_data.xml',
         'wizard/fast_return.xml'],
 
-    "installable": True
+    "installable": False
 }

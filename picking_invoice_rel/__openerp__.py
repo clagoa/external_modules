@@ -43,7 +43,7 @@
 , "security/group.xml"
 , "security/ir.model.access.csv"
 ]
-, "installable"  : True
+, "installable"  : False
 , 'application'  : False
 , "auto_install" : False
 }

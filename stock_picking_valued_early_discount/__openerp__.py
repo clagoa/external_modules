@@ -30,5 +30,5 @@
     'website': 'http://www.pexego.es, http://www.comunitea.com',
     "depends": ['stock_picking_valued', 'sale_early_payment_discount'],
     "data": [],
-    "installable": True
+    "installable": False
 }

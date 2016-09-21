@@ -43,6 +43,6 @@
                     'business_line_view.xml',
                     'account_voucher_view.xml',
                     'security/ir.model.access.csv'],
-    'installable': True,
+    'installable': False,
     'certificate': '',
 }

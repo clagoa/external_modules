@@ -39,5 +39,5 @@
     'data': ['res_company_view.xml',
              'stock_picking_view.xml'],
     'active': False,
-    'installable': True,
+    'installable': False,
 }

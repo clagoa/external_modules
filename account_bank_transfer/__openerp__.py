@@ -31,7 +31,7 @@
         "init_xml" : [],
         "demo_xml" : [],
         "data" : ['wizard/bank_transfer_wizard_view.xml'],
-        "installable": True,
+        "installable": False,
         'active': False
 
 }

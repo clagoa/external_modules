@@ -36,5 +36,5 @@
     'description': '''
 Allow to export sepa direct debit files grouped by partner.
 Send email to partners when payment order is done''',
-    'installable': True,
+    'installable': False,
 }

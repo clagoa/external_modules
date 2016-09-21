@@ -30,5 +30,5 @@
     'website': 'luengocabanillas.com, http://www.comunitea.com',
     "depends": ['sale','stock_account'],
     "data": ['res_company_view.xml','res_partner_view.xml', 'sale_view.xml', 'account_invoice_view.xml', 'data/ir_cron.xml'],
-    "installable": True
+    "installable": False
 }

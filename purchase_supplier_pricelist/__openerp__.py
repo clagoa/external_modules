@@ -30,6 +30,6 @@
     'website': 'https://www.pexego.es, http://www.comunitea.com',
     'depends': ['base', 'product', 'purchase', 'purchase_discount'],
     'data': ['product_view.xml'],
-    'installable': True,
+    'installable': False,
     'certificate': '',
 }

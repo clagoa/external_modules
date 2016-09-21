@@ -39,5 +39,5 @@
               'account_invoice_view.xml',
               'product_category_view.xml',
               'report/sale_order.xml'],
-    'installable': True
+    'installable': False
 }
